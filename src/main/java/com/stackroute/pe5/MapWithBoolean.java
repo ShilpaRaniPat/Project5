@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class mapWithBoolean {
+public class MapWithBoolean {
 
     public Map<String,Boolean> numberOfCounts(String str){
         Map<String,Integer> map = new HashMap<>();

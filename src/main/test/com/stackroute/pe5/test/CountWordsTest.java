@@ -1,6 +1,6 @@
 package com.stackroute.pe5.test;
 
-import com.stackroute.pe5.countWords;
+import com.stackroute.pe5.CountWords;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -10,14 +10,14 @@ import java.util.Map;
 
 import static org.junit.Assert.assertNull;
 
-public class countWordsTest {
-    countWords countObj=new countWords();
+public class CountWordsTest {
+    CountWords countObj=new CountWords();
 
 
     @Before
     public void setUp() throws Exception {
 
-        countWords countObj=new countWords();
+        CountWords countObj=new CountWords();
     }
 
     @After

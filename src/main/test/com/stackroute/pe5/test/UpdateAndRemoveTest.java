@@ -1,6 +1,6 @@
 package com.stackroute.pe5.test;
 
-import com.stackroute.pe5.updateAndRemove;
+import com.stackroute.pe5.UpdateAndRemove;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -9,13 +9,13 @@ import java.util.ArrayList;
 
 import static org.junit.Assert.*;
 
-public class updateAndRemoveTest {
-    updateAndRemove uar = new updateAndRemove();
+public class UpdateAndRemoveTest {
+    UpdateAndRemove uar = new UpdateAndRemove();
 
 
     @Before
     public void setUp() throws Exception {
-        updateAndRemove uar = new updateAndRemove();
+        UpdateAndRemove uar = new UpdateAndRemove();
     }
 
     @After

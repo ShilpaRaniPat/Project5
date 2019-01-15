@@ -1,6 +1,6 @@
 package com.stackroute.pe5.test;
 
-import com.stackroute.pe5.mapKeyValue;
+import com.stackroute.pe5.MapKeyValue;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -10,12 +10,12 @@ import java.util.Map;
 
 import static org.junit.Assert.*;
 
-public class mapKeyValueTest {
-    mapKeyValue MapObject = new mapKeyValue();
+public class MapKeyValueTest {
+    MapKeyValue MapObject = new MapKeyValue();
 
     @Before
     public void setUp() throws Exception {
-        mapKeyValue MapObject = new mapKeyValue();
+        MapKeyValue MapObject = new MapKeyValue();
     }
 
     @After

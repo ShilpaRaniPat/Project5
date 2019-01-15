@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class countWords {
+public class CountWords {
 
         public Map<String,Integer> numberOfCounts(String str){
             Map<String,Integer> map = new HashMap<>();

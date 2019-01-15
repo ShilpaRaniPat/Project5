@@ -1,6 +1,6 @@
 package com.stackroute.pe5.test;
 
-import com.stackroute.pe5.mapWithBoolean;
+import com.stackroute.pe5.MapWithBoolean;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -10,12 +10,12 @@ import java.util.Map;
 
 import static org.junit.Assert.*;
 
-public class mapWithBooleanTest {
-    mapWithBoolean objectOfMap = new mapWithBoolean();
+public class MapWithBooleanTest {
+    MapWithBoolean objectOfMap = new MapWithBoolean();
 
     @Before
     public void setUp() throws Exception {
-        mapWithBoolean objectOfMap = new mapWithBoolean();
+        MapWithBoolean objectOfMap = new MapWithBoolean();
     }
 
 

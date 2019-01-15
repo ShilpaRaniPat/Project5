@@ -4,7 +4,7 @@ import java.util.*;
 
 import static java.util.Arrays.asList;
 
-public class  updateAndRemove {
+public class UpdateAndRemove {
     public ArrayList<String> creation(String s, String word, String toreplace) {
         List<String> wordList = Arrays.asList(s.split(" "));
         if(wordList.contains(word)){

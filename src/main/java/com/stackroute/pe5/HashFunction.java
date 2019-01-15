@@ -2,7 +2,7 @@ package com.stackroute.pe5;
 
 import java.util.*;
 
-public class hashFunction {
+public class HashFunction {
 
 
     public ArrayList myfunction(String s) {

@@ -2,7 +2,7 @@ package com.stackroute.pe5;
 
 import java.util.*;
 
-public class mapKeyValue {
+public class MapKeyValue {
 
 
     public Map hashmethod(LinkedHashMap<String,String> input) {

@@ -1,6 +1,6 @@
 package com.stackroute.pe5.test;
 
-import com.stackroute.pe5.hashFunction;
+import com.stackroute.pe5.HashFunction;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -10,8 +10,8 @@ import java.util.ArrayList;
 //import static com.sun.tools.doclint.Entity.and;
 import static org.junit.Assert.*;
 
-public class hashFunctionTest {
-    hashFunction func=new hashFunction();
+public class HashFunctionTest {
+    HashFunction func=new HashFunction();
 
     @Before
     public void setUp() throws Exception {
